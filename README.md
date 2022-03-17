@@ -1,4 +1,4 @@
-# 00-prework
+# Fintech Prework Checklist
 
 - [X] Lesson Plan: What is Money?
 

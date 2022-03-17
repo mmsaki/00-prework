@@ -1,11 +1,11 @@
 # 00-prework
 
-* 0.1 Lesson Plan: What is Money?
+- [X] Lesson Plan: What is Money?
 
-* 0.2 Lesson Plan: What is Risk?
+- [X] Lesson Plan: What is Risk?
 
-* 0.3 Lesson Plan: Investing
+- [x] Lesson Plan: Investing
 
-* 0.4 Lesson Plan: Markets
+- [x] Lesson Plan: Markets
 
-* 0.5 Lesson Plan: Startup Survival Guide
+- [x] Lesson Plan: Startup Survival Guide
